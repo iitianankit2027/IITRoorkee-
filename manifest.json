@@ -1,15 +1,17 @@
 {
-  "name": "ITT Roorkee target",
   "short_name": "IIT Target",
-  "start_url": "/index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#4285f4",
+  "name": "ITT Roorkee target",
+  "description": "IIT Roorkee Target App for Students",
   "icons": [
     {
-      "src": "icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
+      "src": "https://raw.githubusercontent.com/iitianankit2027/IITRoorkee-/main/1000005241.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
     }
-  ]
+  ],
+  "start_url": "/IITRoorkee-/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "theme_color": "#000000"
 }
