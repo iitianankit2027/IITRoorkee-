@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "iitianankit2027",
   "orientation": "any",
-  "scope": "/IIT Roorkee-/",
+  "scope": "/IITRoorkee-/",
   "short_name": "ITT Roorkee target",
-  "start_url": "/IIT Roorkee-/",
+  "start_url": "/IITRoorkee-/",
   "theme_color": "#b00000",
   "description": "IIT Roorkee cse ka target under 500 rank",
   "icons": [
