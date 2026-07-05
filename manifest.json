@@ -1,13 +1,20 @@
 {
-  "short_name": "IIT Target",
-  "name": "ITT Roorkee target",
-  "description": "IIT Roorkee Target App for Students",
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "iitianankit2027",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ITT Roorkee target",
+  "start_url": "/",
+  "theme_color": "#b00000",
+  "description": "IIT Roorkee cse ka target under 500 rank",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/iitianankit2027/IITRoorkee-/main/1000005241.png",
+      "src": "1000005241.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
     }
-  ],
-  "o": "/IITRoork
+  ]
+}
